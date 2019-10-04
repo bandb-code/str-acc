@@ -1,4 +1,4 @@
-This is an simple project for string calculator.
+This is a simple project for string calculator.
 
 
 # Getting started
